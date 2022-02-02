@@ -1,5 +1,5 @@
 ﻿using System;
-using CalculateLibrary;
+using LibCalculator;
 
 namespace Calculator {
     class Program {
@@ -41,3 +41,4 @@ namespace Calculator {
         }
     }
 }
+

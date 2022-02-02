@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "LibCalculator/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/LibCalculator.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LibCalculator.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "LibCalculator/1.0.0": {
-      "type": "project",
-      "path": "../LibCalculator/LibCalculator.csproj",
-      "msbuildProject": "../LibCalculator/LibCalculator.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "LibCalculator >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "/home/ritux/.nuget/packages/": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ritux/dev/CSharpLearning/Calculator/Calculator/Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "/home/ritux/dev/CSharpLearning/Calculator/Calculator/Calculator.csproj",
+      "projectUniqueName": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj",
+      "projectName": "LibCalculator",
+      "projectPath": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj",
       "packagesPath": "/home/ritux/.nuget/packages/",
-      "outputPath": "/home/ritux/dev/CSharpLearning/Calculator/Calculator/obj/",
+      "outputPath": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ritux/.nuget/NuGet/NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj": {
-              "projectPath": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

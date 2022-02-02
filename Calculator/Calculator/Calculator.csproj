@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\CalculateLibrary\CalculateLibrary.csproj" />
+    <ProjectReference Include="..\LibCalculator\LibCalculator.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
