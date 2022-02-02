@@ -1,0 +1,12 @@
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/bin/Debug/net6.0/CalculateLibrary.deps.json
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/bin/Debug/net6.0/CalculateLibrary.dll
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/bin/Debug/net6.0/ref/CalculateLibrary.dll
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/bin/Debug/net6.0/CalculateLibrary.pdb
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/obj/Debug/net6.0/CalculateLibrary.csproj.AssemblyReference.cache
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/obj/Debug/net6.0/CalculateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/obj/Debug/net6.0/CalculateLibrary.AssemblyInfoInputs.cache
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/obj/Debug/net6.0/CalculateLibrary.AssemblyInfo.cs
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/obj/Debug/net6.0/CalculateLibrary.csproj.CoreCompileInputs.cache
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/obj/Debug/net6.0/CalculateLibrary.dll
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/obj/Debug/net6.0/ref/CalculateLibrary.dll
+/home/ritux/dev/CSharpLearning/Calculator/CalculateLibrary/obj/Debug/net6.0/CalculateLibrary.pdb

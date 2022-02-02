@@ -1,0 +1,12 @@
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/obj/Debug/net6.0/BankLibrary.csproj.AssemblyReference.cache
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/obj/Debug/net6.0/BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/obj/Debug/net6.0/BankLibrary.AssemblyInfoInputs.cache
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/obj/Debug/net6.0/BankLibrary.AssemblyInfo.cs
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/obj/Debug/net6.0/BankLibrary.csproj.CoreCompileInputs.cache
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/bin/Debug/net6.0/BankLibrary.deps.json
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/bin/Debug/net6.0/BankLibrary.dll
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/bin/Debug/net6.0/ref/BankLibrary.dll
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/bin/Debug/net6.0/BankLibrary.pdb
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/obj/Debug/net6.0/BankLibrary.dll
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/obj/Debug/net6.0/ref/BankLibrary.dll
+/home/ritux/dev/CSharpLearning/OOPBank/BankLibrary/obj/Debug/net6.0/BankLibrary.pdb

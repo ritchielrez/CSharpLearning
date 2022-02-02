@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPBank", "OOPBank\OOPBank.csproj", "{FE5F5F11-C51E-4A89-9AE1-9D0A890433D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLibrary", "BankLibrary\BankLibrary.csproj", "{4E85A3EA-A278-4103-970D-A08422F02F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingTests", "BankingTests\BankingTests.csproj", "{4FA90BC5-E09B-47F1-BDA8-5D6EE87056AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5F5F11-C51E-4A89-9AE1-9D0A890433D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5F5F11-C51E-4A89-9AE1-9D0A890433D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5F5F11-C51E-4A89-9AE1-9D0A890433D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5F5F11-C51E-4A89-9AE1-9D0A890433D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E85A3EA-A278-4103-970D-A08422F02F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E85A3EA-A278-4103-970D-A08422F02F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E85A3EA-A278-4103-970D-A08422F02F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E85A3EA-A278-4103-970D-A08422F02F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA90BC5-E09B-47F1-BDA8-5D6EE87056AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA90BC5-E09B-47F1-BDA8-5D6EE87056AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA90BC5-E09B-47F1-BDA8-5D6EE87056AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA90BC5-E09B-47F1-BDA8-5D6EE87056AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
