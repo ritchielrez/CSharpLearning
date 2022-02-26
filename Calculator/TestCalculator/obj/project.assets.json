@@ -5989,19 +5989,19 @@
     ]
   },
   "packageFolders": {
-    "/home/ritux/.nuget/packages/": {}
+    "C:\\Users\\ritux\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ritux/dev/CSharpLearning/Calculator/TestCalculator/TestCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\TestCalculator\\TestCalculator.csproj",
       "projectName": "TestCalculator",
-      "projectPath": "/home/ritux/dev/CSharpLearning/Calculator/TestCalculator/TestCalculator.csproj",
-      "packagesPath": "/home/ritux/.nuget/packages/",
-      "outputPath": "/home/ritux/dev/CSharpLearning/Calculator/TestCalculator/obj/",
+      "projectPath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\TestCalculator\\TestCalculator.csproj",
+      "packagesPath": "C:\\Users\\ritux\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\TestCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ritux/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ritux\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -6013,8 +6013,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj": {
-              "projectPath": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj"
+            "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\LibCalculator.csproj": {
+              "projectPath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\LibCalculator.csproj"
             }
           }
         }
@@ -6065,7 +6065,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

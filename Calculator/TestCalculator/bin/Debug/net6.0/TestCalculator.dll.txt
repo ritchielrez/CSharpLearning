@@ -1,0 +1,4 @@
+CalculatorTest.UnitTest1.AdditionIsWorking
+CalculatorTest.UnitTest1.SubtractionIsWorking
+CalculatorTest.UnitTest1.MultiplicationIsWorking
+CalculatorTest.UnitTest1.DivisionIsWorking

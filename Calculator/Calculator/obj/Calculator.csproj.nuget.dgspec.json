@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ritux/dev/CSharpLearning/Calculator/Calculator/Calculator.csproj": {}
+    "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "/home/ritux/dev/CSharpLearning/Calculator/Calculator/Calculator.csproj": {
+    "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ritux/dev/CSharpLearning/Calculator/Calculator/Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/home/ritux/dev/CSharpLearning/Calculator/Calculator/Calculator.csproj",
-        "packagesPath": "/home/ritux/.nuget/packages/",
-        "outputPath": "/home/ritux/dev/CSharpLearning/Calculator/Calculator/obj/",
+        "projectPath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\ritux\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ritux/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ritux\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj": {
-                "projectPath": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj"
+              "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\LibCalculator.csproj": {
+                "projectPath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\LibCalculator.csproj"
               }
             }
           }
@@ -56,21 +56,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj": {
+    "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\LibCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\LibCalculator.csproj",
         "projectName": "LibCalculator",
-        "projectPath": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj",
-        "packagesPath": "/home/ritux/.nuget/packages/",
-        "outputPath": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/obj/",
+        "projectPath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\LibCalculator.csproj",
+        "packagesPath": "C:\\Users\\ritux\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ritux/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ritux\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -108,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

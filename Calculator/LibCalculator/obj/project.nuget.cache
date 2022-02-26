@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xmJXUDsXh5qGj2sLpVPL2nZ29TrSXsA8h8Vbr0502vS2JBHegmJVroPPbfwQby11oinwg6n71mPsAqZRQlQ6AA==",
+  "dgSpecHash": "wGLSrDxAZ4yuYvLQy2Rt27BLt7kqyFkdDZemBHDqs7PtVEy5/TUgZJ5xGcPem7e7ITfJdIObeJ+Z4kaF6Z5DHA==",
   "success": true,
-  "projectFilePath": "/home/ritux/dev/CSharpLearning/Calculator/LibCalculator/LibCalculator.csproj",
+  "projectFilePath": "C:\\Users\\ritux\\dev\\CSharpLearning\\Calculator\\LibCalculator\\LibCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
